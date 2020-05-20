@@ -1,6 +1,6 @@
 ## Exchange Rate
 
-Select countries to get the exchange rate for a specific amount
+Select countries to get the exchange rate for a specific amount using fetch API, json, 3rd party API and DOM elements.
 
 ## Project Specifications
 
